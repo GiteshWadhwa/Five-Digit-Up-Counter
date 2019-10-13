@@ -1,5 +1,5 @@
 body {
-    background-color: #d8f8ff;
+    background-color: #d7f7ff;
     font-family: sans-serif;
     margin: 50px;
 }
@@ -12,7 +12,7 @@ body {
 }
 
 #counter-value p {
-    color:white;
+    color:grey;
     font-weight: bold;
     font-size: 1.2rem;
     letter-spacing: 0.5rem;
@@ -45,7 +45,7 @@ body {
 
 
 #counter-container {
-    background-color: #555555;
+    background-color: white;
     height: 200px;
     width: 80%;
     margin: auto;
