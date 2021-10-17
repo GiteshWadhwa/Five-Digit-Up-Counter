@@ -1,7 +1,7 @@
 body {
     background-color: #d8f8ff;
     font-family: sans-serif;
-    margin: 50px;
+    margin: 60px;
 }
 
 #counter-value {
@@ -27,7 +27,7 @@ body {
 
 #input-range input {
     padding: 10px;
-    width: 30%;
+    width: 29%;
     font-size: 1rem;
 }
 
